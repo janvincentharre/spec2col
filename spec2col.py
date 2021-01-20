@@ -1,3 +1,7 @@
+# by Jan-Vincent Harre (janvincent.harre@stud.uni-goettingen.de) and Rene Heller (heller@mps.mpg.de)
+# January 2021
+# for details, see Harre and Heller (2021): https://arxiv.org/abs/2101.06254
+
 import numpy as np
 import os
 from astropy.io import fits
