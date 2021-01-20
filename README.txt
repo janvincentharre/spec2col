@@ -10,7 +10,7 @@ In order to use spec2col.py you need:
 
 - PHOENIX spectra are recommended, which can be found under:
 	"http://phoenix.astro.physik.uni-goettingen.de/data/HiResFITS/PHOENIX-ACES-AGSS-COND-2011/"
-  You will also need a wavelength file, which can be found under:
+  You will also need a wavelength file, which can be found for the PHOENIX spectra under:
 	"http://phoenix.astro.physik.uni-goettingen.de/data/HiResFITS" with the name "WAVE_PHOENIX-ACES-AGSS-COND-2011.fits".
   This file needs to be placed in the same directory as "spec2col.py".
 
