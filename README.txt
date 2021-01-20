@@ -5,7 +5,7 @@ In order to use spec2col.py you need:
 	For your own spectra in a ".csv" or ".txt" format:
 	- the wavelength resolution should be better than 1AA
 	- if the wavelength range in your spectrum is only partly in the range of 3900AA to 8300AA, it needs to be manually extended so that the whole range is covered. Steps of 1AA are accurate enough.
-	- if the data is only available as ".txt" files: the standard delimiter is set as ",". It can be changed in line 184 in "spec2col.py".
+	- if the data is only available as ".txt" files: the standard delimiter is set as ",". It can be changed in line 188 in "spec2col.py".
 	  
 
 - PHOENIX spectra are recommended, which can be found under:
@@ -16,3 +16,5 @@ In order to use spec2col.py you need:
 
 
 The resulting color(s) will be put into the file "color_result.txt".
+
+The data in cmf_precise.txt are taken from http://cvrl.ioo.ucl.ac.uk/. Copyright by Color and Vision Research Labs.
